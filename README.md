@@ -13,6 +13,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiHypnos&theme=dracula&hide_langs_below=1" />
 </a>
 <tr>
-    <td align="left">
+    <td align="center">
 <img alt="" width="400" src="https://github.com/LiHypnos/metrics/blob/examples/metrics.classic.svg" alt=""></img>
 </td>
