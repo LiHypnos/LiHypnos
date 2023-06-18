@@ -10,7 +10,7 @@
   </a>
 </p>
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiHypnos&theme=dracula&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiHypnos&theme=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/LyHipnos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiHypnos&theme=radical">
