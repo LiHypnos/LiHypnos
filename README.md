@@ -12,4 +12,4 @@
 <a href="https://github.com/Gurupreet">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiHypnos&theme=dracula&hide_langs_below=1" />
 </a>
-[![LiHypnos](https://github-readme-stats.vercel.app/api?username=LiHypnos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=LiHypnos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
