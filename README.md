@@ -14,5 +14,5 @@
 </a>
 <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/LiHypnos/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/LyHipnos/metrics/blob/examples/metrics.classic.svg" alt=""></img>
 </td>
